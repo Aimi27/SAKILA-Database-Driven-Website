@@ -1,5 +1,5 @@
 # SAKILA-Database-Driven-Website
-Just a link to a screen capture of the database-driven website project we did in 2019. For this project, we used MySQL, HTML, CSS and JavaScript.
+Just a link to a screen capture of the database-driven website project we did in 2019. For this project, we used PHP, MySQL, HTML, CSS and JavaScript.
 
 Link to screen capture: https://drive.google.com/file/d/1TevSYkSWTGh34ORGXfL__9RJez-It3As/view?usp=sharing
 
